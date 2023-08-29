@@ -13,7 +13,7 @@ This repository contains all the homework I completed in the CS50x2023 course.
 - [Lab & Problem Set 6: Python](https://github.com/Xiangyu2141480/CS50x_2023/tree/main/week6)
 - [Lab & Problem Set 7: SQL](https://github.com/Xiangyu2141480/CS50x_2023/tree/main/week7)
 - [Lab & Problem Set 8: HTML, CSS, JavaScript](https://github.com/Xiangyu2141480/CS50x_2023/tree/main/week8)
-- [Lab & Problem Set 9: ](https://github.com/Xiangyu2141480/CS50x_2023/tree/main/week9)
+- [Lab & Problem Set 9: Flask](https://github.com/Xiangyu2141480/CS50x_2023/tree/main/week9)
 
 ## Sharing
 
