@@ -1,0 +1,9 @@
+Working through these practice SQL queries was great for improving my SQL skills. It challenged me to think about how to use different SQL clauses like JOIN, ORDER BY, LIMIT, etc. to extract specific pieces of information from a database.
+
+Writing the queries required carefully reading each question to understand exactly what data needed to be returned. I had to think about how the tables were related to each other through keys like artist_id. Joining the songs and artists tables was necessary for some questions to get data from both tables.
+
+I made some mistakes initially in the syntax, for example forgetting to specify the table name for the columns. Getting the error messages helped me improve, for example realizing I needed to order the LIMIT after the ORDER BY clause. Practicing these queries and fixing the errors through the iterative process taught me a lot.
+
+Thinking about how Spotify may use similar queries on their own data to generate insights for their annual Wrapped summaries was interesting. It demonstrated how SQL can be used to analyze real-world data.
+
+Overall, the hands-on practice of writing and executing SQL queries for different needs was excellent experience. Debugging errors by checking table structures and query syntax was extremely valuable. I definitely improved my SQL skills through this exercise and feel more confident writing SQL queries now. Doing practical exercises like this is important for becoming proficient with SQL.
