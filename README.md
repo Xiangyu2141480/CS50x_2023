@@ -1,6 +1,6 @@
 # CS50x2023 solutions
 
-This repository contains all the homework I completed in the CS50x2023 course. All of these assignments are my own original work.
+This repository contains all the homework I completed in the CS50x2023 course.
 
 ## Solution List
 
