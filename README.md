@@ -2,7 +2,7 @@
 
 This repository contains all the homework I completed in the CS50x2023 course. All of these assignments are my own original work.
 
-## Homework List
+## Solution List
 
 - Problem Set 0: Scratch
 - Problem Set 1: C
