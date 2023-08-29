@@ -1,8 +1,8 @@
-# CS50x2023 作业
+# CS50x2023 solutions
 
-这个仓库包含了我在CS50x2023课程中完成的所有作业。
+This repository contains all the homework I completed in the CS50x2023 course. All of these assignments are my own original work.
 
-## 作业列表
+## Homework List
 
 - Problem Set 0: Scratch
 - Problem Set 1: C
@@ -13,6 +13,13 @@
 - Problem Set 6: Python
 - Problem Set 7: SQL
 - Problem Set 8: HTML, CSS, JavaScript
+- Problem Set 9: Flask
 - Final Project
 
-## 共享
+## Sharing
+
+If you would like others to be able to view and download your code, please share this repository link with them.
+
+If you would like others to be able to modify or improve your code, you can make the repository public and allow others to submit pull requests.
+
+I have been **continuously learning** and improving my skills throughout the course of this program. I am excited to share my work with others and look forward to continuing my learning journey.
