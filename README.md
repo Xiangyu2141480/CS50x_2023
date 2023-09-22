@@ -24,6 +24,6 @@ If you would like others to be able to modify or improve your code, you can make
 I have been **continuously learning** and improving my skills throughout the course of this program. I am excited to share my work with others and look forward to continuing my learning journey.
 
 ## Verified certificate
-
-
+![image](https://github.com/Xiangyu2141480/CS50x_2023/blob/main/CS50x.png)
+![image](https://github.com/Xiangyu2141480/CS50x_2023/blob/main/.png)
 
