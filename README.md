@@ -25,5 +25,5 @@ I have been **continuously learning** and improving my skills throughout the cou
 
 ## Verified certificate
 ![image](https://github.com/Xiangyu2141480/CS50x_2023/blob/main/CS50x.png)
-![image](https://github.com/Xiangyu2141480/CS50x_2023/blob/main/.png)
+![image](https://github.com/Xiangyu2141480/CS50x_2023/blob/main/Verified%20Certificate%20by%20edX.png)
 
