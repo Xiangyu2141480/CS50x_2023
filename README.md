@@ -22,3 +22,6 @@ If you would like others to be able to view and download your code, please share
 If you would like others to be able to modify or improve your code, you can make the repository public and allow others to submit pull requests.
 
 I have been **continuously learning** and improving my skills throughout the course of this program. I am excited to share my work with others and look forward to continuing my learning journey.
+
+## Verified certificate
+
